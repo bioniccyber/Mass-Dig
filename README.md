@@ -1,3 +1,5 @@
+# mass-dig
+
 The dig command is a powerful command line DNS utility to research and troubleshoot domain name resolution. It is popular due to its flexibility, simplicity, and clear output. Included with Linux and Unix distributions, dig is most commonly used to:
 
 - Performs DNS lookups
